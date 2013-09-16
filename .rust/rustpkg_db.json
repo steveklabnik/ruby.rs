@@ -1,0 +1,3 @@
+{
+  "[\"ruby-0.1\",{\"_field0\":{}}]": "[{\"_field0\":{\"/home/steveklabnik/src/ruby.rs/src/ruby/lib.rs\":{\"_field0\":{\"file\":\"66fc77e33692531ef82265b79075dda47d177011\"}},\"/usr/local/lib/libstd-c3ca5d77d81b46c1-0.7-pre.so\":{\"_field0\":{\"binary\":\"0d58cbe4902a702ade7ad8b575c8f96afc7efbba\"}}}},{\"_field0\":{\"/home/steveklabnik/src/ruby.rs/lib/libruby-d5a2ed53981a8493-0.1.0.so\":{\"_field0\":{\"binary\":\"e6bedbe9eadc79236be2220414a64c605cd71a87\"}}}},\"null\"]"
+}
